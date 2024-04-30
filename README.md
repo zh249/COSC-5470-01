@@ -6,14 +6,13 @@ train.ipynb is our main executable code.
 
 The introduction of the dataset is in the data folder.
 
-
 ### Goal
 
-- To refine and expand upon the methodology proposed by Ali Hatamizadeh in their influential work.
+To refine and expand upon the methodology proposed by Ali Hatamizadeh in their influential work.
 
-- We have redesigned the structural components of the proposed model.
+We have redesigned the structural components of the proposed model.
 
-- Our enhancements better suit the complex demands of medical imaging, enhancing the model's performance and clinical applicability.
+Our enhancements better suit the complex demands of medical imaging, enhancing the model's performance and clinical applicability.
 
 ### Reference
 
