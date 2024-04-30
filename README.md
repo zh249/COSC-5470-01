@@ -1,8 +1,13 @@
 # COSC-5470-01
 
+### Team members
+
+**Zhekai Han (zh249)**
+**Shihao Wang (sw1379)**
+
 ### Getting Started
 
-train.ipynb is our main executable code.
+[train.ipynb](https://github.com) is our main executable code.
 
 The introduction of the dataset is in the data folder.
 
@@ -25,5 +30,3 @@ Our enhancements better suit the complex demands of medical imaging, enhancing t
 - Ma, Jun, et al. "Segment anything in medical images." Nature Communications 15.1 (2024): 654.
 
 - Menze, Bjoern H., et al. "The multimodal brain tumor image segmentation benchmark (BRATS)." IEEE transactions on medical imaging 34.10 (2014): 1993-2024.
-
-- https://github.com/Project-MONAI/MONAI
