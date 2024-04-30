@@ -12,14 +12,6 @@
 
 The introduction of the dataset is in the data folder.
 
-### Goal
-
-To refine and expand upon the methodology proposed by Ali Hatamizadeh in their influential work.
-
-We have redesigned the structural components of the proposed model.
-
-Our enhancements better suit the complex demands of medical imaging, enhancing the model's performance and clinical applicability.
-
 ### Reference
 
 - Hatamizadeh, Ali, et al. "Unetr: Transformers for 3d medical image segmentation." Proceedings of the IEEE/CVF winter conference on applications of computer vision. 2022.
