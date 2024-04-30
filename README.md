@@ -2,12 +2,11 @@
 
 ### Team members
 
-**Zhekai Han (zh249)**
-**Shihao Wang (sw1379)**
+**Zhekai Han (zh249)** & **Shihao Wang (sw1379)**
 
 ### Getting Started
 
-[train.ipynb](https://github.com) is our main executable code.
+[train.ipynb](https://github.com/zh249/COSC-5470-01/blob/main/code/train.ipynb) is our main executable code.
 
 The introduction of the dataset is in the data folder.
 
