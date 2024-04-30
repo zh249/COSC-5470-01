@@ -1,5 +1,11 @@
 # COSC-5470-01
 
+### Getting Started
+
+train.ipynb is our main executable code.
+
+The introduction of the dataset is in the data folder.
+
 
 ### Goal
 
@@ -8,7 +14,6 @@
 - We have redesigned the structural components of the proposed model.
 
 - Our enhancements better suit the complex demands of medical imaging, enhancing the model's performance and clinical applicability.
-
 
 ### Reference
 
