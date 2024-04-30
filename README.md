@@ -1,4 +1,4 @@
-# COSC-5470-01
+# A Hybrid Unet-Transformer Architecture for Medical Image Segmentation
 
 ### Team members
 
@@ -7,6 +7,8 @@
 ### Getting Started
 
 [train.ipynb](https://github.com/zh249/COSC-5470-01/blob/main/code/train.ipynb) is our main executable code.
+
+[slides.pdf](https://github.com/zh249/COSC-5470-01/blob/main/presentation/slides.pdf) is the slides we use for our presentation.
 
 The introduction of the dataset is in the data folder.
 
