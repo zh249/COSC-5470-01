@@ -10,6 +10,8 @@
 
 [slides.pdf](https://github.com/zh249/COSC-5470-01/blob/main/presentation/slides.pdf) is the slides we use for our presentation.
 
+[summary.pdf](https://github.com/zh249/COSC-5470-01/blob/main/summary/summary.pdf) is our summary of the project.
+
 The introduction of the dataset is in the data folder.
 
 ### Reference
